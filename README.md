@@ -1,4 +1,5 @@
 Building imagination to innovation!<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anjali-patel-3966b41a1/) 
 
 # 📊 GitHub Stats:
